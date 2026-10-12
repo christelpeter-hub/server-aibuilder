@@ -1,0 +1,160 @@
+{
+  "resumes": [
+    {
+      "fullName": "deepak",
+      "location": "idukki,kerala",
+      "job": "Data Analyst",
+      "email": "deepak@gmail.com",
+      "phone": "9088387878",
+      "linkedin": "etwgrgrahteahb",
+      "github": "dfbaharyhwyrjyryjjyj",
+      "degree": "bca",
+      "college": "cochin",
+      "year": "20000",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Python",
+        "Data Visualization",
+        "Power BI",
+        "Tableau",
+        "Data Cleaning",
+        "Statistical Analysis",
+        "Pandas",
+        "NumPy",
+        "mongodb"
+      ],
+      "summary": "Detail-oriented data analyst skilled in collecting, analyzing, and interpreting complex datasets to support business decisions. Experienced in data visualization and reporting tools.",
+      "id": "Ffi2hosn41g"
+    },
+    {
+      "fullName": "deepak",
+      "location": "kerala,india",
+      "job": "Data Scientist",
+      "email": "deppak@gmail.com",
+      "phone": "7947778436",
+      "linkedin": "eggrhyhjhhjkrjjklj",
+      "github": "dsuhjsdnjnjnfb",
+      "degree": "bca",
+      "college": "cochin",
+      "year": "20000",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Statistics",
+        "Data Visualization",
+        "Pandas",
+        "NumPy",
+        "Deep Learning",
+        "Model Evaluation",
+        "Data Wrangling",
+        "SQL"
+      ],
+      "summary": "Data scientist with expertise in machine learning, statistical analysis, and predictive modeling. Skilled in transforming large datasets into actionable insights.",
+      "id": "8jfbjkr-igc"
+    },
+    {
+      "fullName": "christel",
+      "location": "nedumkandam",
+      "job": "React Developer",
+      "email": "christel@gmail.com",
+      "phone": "7897356342",
+      "linkedin": "cuhidhjgfhdbh",
+      "github": "sdgrhthjyrjseraeg",
+      "degree": "bca",
+      "college": "cochin",
+      "year": "20000",
+      "skills": [
+        "React",
+        "JavaScript",
+        "JSX",
+        "React Hooks",
+        "Redux",
+        "Component Lifecycle",
+        "API Integration",
+        "State Management",
+        "HTML",
+        "CSS"
+      ],
+      "summary": "React developer with strong knowledge of component-based architecture, React hooks, and state management. Experienced in building fast, dynamic, and responsive web applications.",
+      "id": "NaR_3b-XXvg"
+    },
+    {
+      "fullName": "christel",
+      "location": "chjdhsd",
+      "job": "Node.js Developer",
+      "email": "grGRHGRG",
+      "phone": "RGrgerh",
+      "linkedin": "sgfhiuhjj",
+      "github": "ewiuhhokjdk",
+      "degree": "bca",
+      "college": "cochin",
+      "year": "20000",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "MongoDB",
+        "Authentication",
+        "Middleware",
+        "Server Side Logic",
+        "API Security",
+        "Database Integration",
+        "Git"
+      ],
+      "summary": "Node.js developer experienced in building scalable backend services and REST APIs. Skilled in server-side development, database integration, and performance optimization.",
+      "id": "_2MFEhCn0Sg"
+    }
+  ],
+  "downloads": [
+    {
+      "timestamp": "10/9/2026,10/9/2026",
+      "resumeImg": "https://res.cloudinary.com/icq4i5zt/image/upload/v1791556245/yggabvln1yfruhxgmzbv.png",
+      "resumeId": "Ffi2hosn41g",
+      "jobRole": "Data Analyst",
+      "id": "SRal3J1a1Eg"
+    },
+    {
+      "timestamp": "10/9/2026,10/9/2026",
+      "resumeImg": "https://res.cloudinary.com/icq4i5zt/image/upload/v1791556251/w8qamrddj8ozmksmwz0p.png",
+      "resumeId": "Ffi2hosn41g",
+      "jobRole": "Data Analyst",
+      "id": "vra7kQyASKM"
+    },
+    {
+      "timestamp": "10/9/2026,10/9/2026",
+      "resumeImg": "https://res.cloudinary.com/icq4i5zt/image/upload/v1791556252/tq06ndnvaqjk1rxtp8ne.png",
+      "resumeId": "Ffi2hosn41g",
+      "jobRole": "Data Analyst",
+      "id": "yQdNKbex8Bc"
+    },
+    {
+      "timestamp": "10/9/2026,10/9/2026",
+      "resumeImg": "https://res.cloudinary.com/icq4i5zt/image/upload/v1791556254/ngsenxqhfarc7gnsh3jf.png",
+      "resumeId": "Ffi2hosn41g",
+      "jobRole": "Data Analyst",
+      "id": "PGTp2t5XSZM"
+    },
+    {
+      "timestamp": "10/9/2026, 8:03:34 PM",
+      "resumeImg": "https://res.cloudinary.com/icq4i5zt/image/upload/v1791556412/dtqx0pr44740nqckzulu.png",
+      "resumeId": "Ffi2hosn41g",
+      "jobRole": "Data Analyst",
+      "id": "63pndiXV9z0"
+    },
+    {
+      "timestamp": "10/9/2026, 9:37:17 PM",
+      "resumeImg": "https://res.cloudinary.com/icq4i5zt/image/upload/v1791562035/puaeoqknzg89wc2cuev7.png",
+      "resumeId": "NaR_3b-XXvg",
+      "jobRole": "React Developer",
+      "id": "jl0Wg3DibRo"
+    },
+    {
+      "timestamp": "10/9/2026, 11:12:27 PM",
+      "resumeImg": "https://res.cloudinary.com/icq4i5zt/image/upload/v1791567745/rsqqzcsr5ua0empgs4ba.png",
+      "resumeId": "_2MFEhCn0Sg",
+      "jobRole": "Node.js Developer",
+      "id": "hxIHQvLg4yQ"
+    }
+  ]
+}
